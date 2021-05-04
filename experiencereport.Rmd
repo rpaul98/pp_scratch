@@ -1,0 +1,46 @@
+---
+title: "Experience Report: Climate Change Wiki Project"
+author: "Ria Paul"
+output: html_document
+bibliography: refs.bib
+---
+
+Over the past few weeks, I have been participating in and contributing to the Climate Change Wiki project. Prior to this project, I had never contributed to Wikipedia or any similar peer production groups. In this report, I will be outlining the highlights of my experience and what I learned as a new contributor to the project. 
+
+There were several things that drew me to this wiki project. The first was my personal interest in climate change and topics concerning the environment and sustainability. I felt that contributing would help me learn about important issues and concepts related to climate change. The next thing that made me choose this project was the extensive and well-organized project page which seemed very welcoming to new contributors. This page had a long description of the scope of the project, to-do lists, advice, tools, generic ongoing tasks, and style guides. It also included suggestions and steps for how to get started with easy edits. Looking at all guidance and specific instructions that were available, I felt much more confident than I did at first in getting started. The final factor for my choice was the interactions between the contributors that I noticed on the project’s talk page. It gave me the overall impression of a warm, welcoming, and encouraging environment. 
+
+# Getting started and acclimated to Wikipedia
+
+For me, getting started was the hardest and most daunting step. Initially I felt very lost and intimidated by Wikipedia in general. I had a lot of trouble navigating through the articles and understanding how the project was organized. I was very scared of editing something that I shouldn’t or accidentally messing something up. I also didn’t like how the talk pages were set up. I thought it was strange how the talk pages were the same as articles, and how people could technically edit posts/questions made by others in the past. I felt that having a messaging channel or a forum would have been much better. Talk pages that had a lot of posts especially looked hard to navigate and find relevant information. 
+About a day after I added my name to the project member list, I got a message on my user page from someone in the group. They welcomed me to the group and gave me links to the Wikipedia Tree house, the five pillars of Wikipedia, how to add references, a style guide, and more. These kinds of “welcome messages”  “providing newcomers about explicit knowledge about job tasks” leads to greater participation and retention [@Choi2010]. In my case, this was very true as well. Getting such an immediate and warm welcome along with so many helpful guides put my apprehensive feelings at ease.
+
+After going through some of the resources provided in welcome message, I attempted to make my first contribution.  I got started by following the suggestions under the “Getting started with easy edits” section in the project page. It suggested to write about climate change in your area. I made a post on the talk page saying that I was new and was hoping to take this on as my first task. Shortly after I was directed by other members to an article called Climate Change in Texas, since they claimed that it needed attention. They also assured me that they are on the watchlist of this article, so they would be able to provide me with feedback. 
+
+Although I felt somewhat intimidated by Wikipedia at first, my initial interactions and experience with the project members helped me “Be Bold” (as it is put in the Wikipedia guidelines) with contributing. 
+
+
+
+# Coordination and Feedback
+
+
+While working on the Climate Change in Texas article, I found that my main concern was making sure any additions I made integrated well with both the content and language style of the rest of the article. Looking at the talk page, there were no specific edits that anyone said needed to be made. Therefore, I had to spend quite some time reading the article and analyzing its structure to figure out for myself what a good addition could be. According to Kittur and Kraut, implicit coordination involves editors “playing a leadership role in setting the direction and scope of an article” and “create the initial structure of the article”[@Kittur2008].  I found that with my first contribution (as well as the rest) this sort of implicit coordination was at play. When making edits, I followed the direction implicitly laid out by the initial editors of the article. There was a section titled “Actions to Address Climate Change” which already had information about specific actions taken by Cities. Therefore, I added a section titled “Climate Action Plans” in which I described the official plans laid out by major Texas cities to address climate change. 
+
+I contributed to a few more articles including “Coal phase out”, “Low Carbon Diet,” and “Green growth” which mainly involved implicit coordination as well. However, I then decided to go to the list of “Hot articles” given in the project page, which showed which articles have been edited the most in the past 7 days. I figured that this would give me a chance to experience more “explicit coordination”, which which Kittur and Kraut define as explicitly communicating the scope of the article through talk and discussion pages[@Kittur2008]. 
+
+I picked an article titled “Carbon Farming”, in which there were specific suggestions made in the talk page for improvements that could be made to the article. One of the suggestions was to edit the lead of the article, which I decided to do. I read the guidelines for is expected of a good lead to guide me. After spending time researching, I made edits to the lead that I felt highlighted the important aspects of Carbon Farming and summarized the article well. A few days after my edits I noticed someone thanked me and one other user for our additions to the lead. However, when I looked back at the article, I noticed the other user had written over almost all my previous edits. This discouraged me quite a bit because after I made my original edits, I wrote on the talk page that I made edits and wanted feedback. Because someone else had wrote over my edits, I was never able to get any feedback and felt like my changes were reverted without explanation. I was originally hoping to make other edits to the article, but after this I decided to move on to another one. According to a Wikipedia study by Halfaker et al. having edits reverted decreased motivation and participation especially in new users because “actions speak louder than words”[@Halfaker2011]. This idea seemed to apply to me as well. 
+
+
+# Conclusion
+
+Over the course of my participation on this Wiki project, I learned a lot about climate change, the norms of Wikipedia, and collaborative editing. I learned that discussions and disagreements happen, but in the end, everyone is working towards the same goal of putting the best information out there. I had a great time contributing to this Wiki Project, and I am so glad that I was faced with encouragement and warm welcomes as a new member. I will definitely continue contribute to this project.  
+
+# References
+
+Choi, Boreum, et al. “Socialization Tactics in Wikipedia and Their Effects.” Proceedings of the 2010 ACM Conference on Computer Supported Cooperative Work - CSCW '10, 2010, doi:10.1145/1718918.1718940. 
+
+Halfaker, Aaron, et al. “Don't Bite the Newbies.” Proceedings of the 7th International Symposium on Wikis and Open Collaboration - WikiSym '11, 2011, doi:10.1145/2038558.2038585. 
+
+Zhu, Haiyi, et al. “Http://Ljournal.ru/Wp-Content/Uploads/2016/08/d-2016-154.Pdf.” Effects of Peer Feedback on Contribution: A Field Experiment in Wikipedia, 2016, doi:10.18411/d-2016-154. 
+
+Kittur, Aniket, and Robert E. Kraut. “Harnessing the Wisdom of Crowds in Wikipedia.” Proceedings of the ACM 2008 Conference on Computer Supported Cooperative Work - CSCW '08, 2008, doi:10.1145/1460563.1460572.  
+
